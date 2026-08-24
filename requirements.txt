@@ -38,7 +38,8 @@ ipympl>=0.8.2
 ipycanvas>=0.9.1
 # Python: ipyleaflet library for Jupyter notebooks (optional)
 ipyleaflet
-
+tensorflow
+IPython
 # Python: plotting libraries (optional)
 plotly>=6,<7
 bqplot
